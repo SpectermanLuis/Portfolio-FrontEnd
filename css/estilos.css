@@ -135,6 +135,16 @@ main {
 	background-image: url(../img/icon-email.png);
 }
 
+.icon-github
+{
+	background-image: url(../img/icon-github.png);
+}
+
+.icon-instagram
+{
+	background-image: url(../img/icon-instagram.png);
+}
+
 
 .parrafo{
     z-index: 1;
