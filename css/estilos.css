@@ -230,12 +230,13 @@ div.noticia {
     color: black
 }
 
-.row-experiencia .row-educacion .row-habilidades{
+.row-experiencia, .row-educacion, .row-habilidades{
     display:flex;
     align-items: center;
     justify-content: center;
     padding: 3px;
 }
+
 
 /*::::::001-Contacto:::::::*/
 .container-contacto{
